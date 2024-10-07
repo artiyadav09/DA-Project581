@@ -1,7 +1,3 @@
-For the README file in your GitHub repository, you should provide a clear and concise overview of your project. Here's a template you can use:
-
----
-
 # Customer Segmentation Analysis on Amazon Sales Data
 
 ## Overview
