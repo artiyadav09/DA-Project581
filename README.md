@@ -37,7 +37,7 @@ To run the analysis, download the SAS scripts and dataset, then follow these ste
 
 ## Requirements
 - SAS software
-- Amazon Sales Report dataset (included in the repository)
+- Amazon Sales Report dataset
 
 ## Results
 - Identification of customer segments, including high-value buyers and discount-driven customers.
@@ -47,9 +47,3 @@ To run the analysis, download the SAS scripts and dataset, then follow these ste
 ## Author
 Arti Govardhan Yadav - [GitHub Profile](https://github.com/artiyadav09/DA-Project581)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to adjust any sections based on your specific analysis or findings. Let me know if you need further customization!
