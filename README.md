@@ -49,7 +49,7 @@ To run the analysis, download the SAS scripts and dataset, then follow these ste
 - Recommendations for targeted marketing strategies based on customer behavior.
 
 ## Author
-Arti Govardhan Yadav - [GitHub Profile](your-github-profile-link)
+Arti Govardhan Yadav - [GitHub Profile](https://github.com/artiyadav09/DA-Project581)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
